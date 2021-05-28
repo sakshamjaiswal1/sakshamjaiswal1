@@ -9,7 +9,7 @@
 <h3 align="left">Language Known</h3>
 <p align="left">Javascript, Python,Php,C,C++,Java</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamjaiswal1)](https://github.com/sakshamjaiswal1/github-readme-stats)
+
 
 
 <h3 align="left">Technologies</h3>
