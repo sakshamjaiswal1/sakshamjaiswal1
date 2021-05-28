@@ -13,7 +13,7 @@
 
 
 <h3 align="left">Technologies</h3>
-<p align="left">NodeJS, React,MongoDB, Express, Figma, Git, VannilaJs </p>
+<p align="left">HTML,CSS,Bootstrap,NodeJS, React,MongoDB, Express, Figma, Git,Django,Flask </p>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/neelra8n/Javascript_Projects](https://github.com/sakshamjaiswal1/Web_development)
