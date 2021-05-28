@@ -21,9 +21,9 @@
 - 📫 How to reach me **sjais973@gmail.com**
 
 <p align="center">
-<a href="**linkedIn**" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="neelratn" height="30" width="30" /></a>
-<a href="**facebook**" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="neelratn" height="30" width="30" /></a>
-<a href="**instagram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="neelratn" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/sakshamjaiswal1/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Saksham" height="30" width="30" /></a>
+<a href="https://www.facebook.com/saksham.jaiswal3/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Saksham" height="30" width="30" /></a>
+<a href="https://www.instagram.com/sakshamjaiswal1/"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Saksham" height="30" width="30" /></a>
 </p>
 
 ----
