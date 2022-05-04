@@ -16,7 +16,7 @@
 <p align="left">HTML,CSS,Bootstrap,NodeJS, React,MongoDB, Express, Figma, Git,Next.Js,Socket.Io,JWT,Bcrypt,MaterialUi,Tailwind </p>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/sakshamjaiswal1/Web_development](https://github.com/sakshamjaiswal1)
+- 👨‍💻 All of my projects are available at [https://github.com/sakshamjaiswal1](https://github.com/sakshamjaiswal1)
 
 - 📫 How to reach me **sjais973@gmail.com**
 
