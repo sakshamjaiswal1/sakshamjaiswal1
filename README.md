@@ -21,7 +21,7 @@
 
 <p align="center">&nbsp;<img  height="195" width="515" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sakshamjaiswal1&&show_icons=true&theme=dark" alt="sakshamjaiswal1" /></p>
 
-<p align="center"><img  height="195" width="515" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamjaiswal1&" alt="sakshamjaiswal1" /></p>
+<p align="center"><img  height="195" width="515" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamjaiswal1&theme=dark" alt="sakshamjaiswal1" /></p>
 
 
 
