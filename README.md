@@ -4,7 +4,7 @@
 **sakshamjaiswal1/sakshamjaiswal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 <h3 align="left">I'm Saksham Jaiswal</h3>
-<p align="left">FrontEnd Web Developer with good command in ReactJs,nodeJs,Express and MongoDb,and experience in completing various projects in the above fields with good understanding of python web frameworks like Django and Flask.</p>
+<p align="left">FrontEnd Web Developer with good command in ReactJs,nodeJs,Express and MongoDb,and experience in completing various projects in the above fields with good understanding of Web 3.0 and Blockchain technology.</p>
 
 <h3 align="left">Language Known</h3>
 <p align="left">Javascript, Typescript etc</p>
