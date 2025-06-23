@@ -17,11 +17,11 @@
 
 
 
-<p align="center"><img  height="195" width="515" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=sakshamjaiswal1&show_icons=true&locale=en&layout=compact&theme=dark" alt="sakshamjaiswal1" /></p>
+<p align="center"><img  height="195" width="515" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamjaiswal1&theme=tokyonight" alt="sakshamjaiswal1" /></p>
 
-<p align="center">&nbsp;<img  height="195" width="515" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sakshamjaiswal1&&show_icons=true&theme=dark" alt="sakshamjaiswal1" /></p>
+<p align="center">&nbsp;<img  height="195" width="515" align="center" src="https://github-readme-stats.vercel.app/api?username=sakshamjaiswal1&show_icons=true&theme=tokyonight" alt="sakshamjaiswal1" /></p>
 
-<p align="center"><img  height="195" width="515" align="center" src="https://streak-stats.demolab.com/?user=sakshamjaiswal1&theme=dark" alt="sakshamjaiswal1" /></p>
+<p align="center"><img  height="195" width="515" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamjaiswal1&layout=compact&theme=tokyonight" alt="sakshamjaiswal1" /></p>
 
 
 
