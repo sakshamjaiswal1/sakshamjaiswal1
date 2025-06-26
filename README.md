@@ -40,7 +40,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sakshamjaiswal1&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakshamjaiswal1&theme=tokyonight" alt="GitHub Profile Summary" width="100%" />
 </p>
 <p align="center">
   <img height="195" width="515" src="https://github-readme-stats.vercel.app/api?username=sakshamjaiswal1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
