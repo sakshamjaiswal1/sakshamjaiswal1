@@ -13,6 +13,8 @@
 - 🌐 Web3 & Blockchain enthusiast (Solidity, Ethers.js)
 - 🌱 Currently learning advanced backend patterns with **Node.js**, **Express**, and **MongoDB**
 - 💼 Software Engineer @ Sperax DAO
+- 🌍 Open to **remote opportunities globally**
+- ✅ Delivered a wide range of successful projects across startups and DAOs
 
 ---
 
@@ -38,7 +40,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="195" width="515" src="https://github-readme-streak-stats.vercel.app/?user=sakshamjaiswal1&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-contribution-grid.vercel.app/api?username=sakshamjaiswal1&theme=tokyonight&area=true&hide_title=true&animation=wave" alt="GitHub Contribution Grid" width="515" height="195" />
 </p>
 <p align="center">
   <img height="195" width="515" src="https://github-readme-stats.vercel.app/api?username=sakshamjaiswal1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -49,11 +51,11 @@
 
 ---
 
-### 📫 Reach Me At
+### 📢 Reach Me At
 <p align="center">
   <a href="mailto:sjais973@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sakshamjaiswal1/"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/sakshamjaiswal1/"><img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://wa.me/917409571001"><img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 ---
