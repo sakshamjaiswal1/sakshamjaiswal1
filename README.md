@@ -33,12 +33,7 @@
 
 ---
 
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshamjaiswal1&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
----
 
 ### 📊 GitHub Stats
 <p align="center">
